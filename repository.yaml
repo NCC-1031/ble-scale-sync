@@ -1,3 +1,3 @@
-name: BLE Scale Sync
-url: https://github.com/KristianP26/ble-scale-sync
-maintainer: KristianP26
+name: BLE Scale Sync (NCC-1031 fork, IF_B7 01 03 28)
+url: https://github.com/NCC-1031/ble-scale-sync
+maintainer: NCC-1031

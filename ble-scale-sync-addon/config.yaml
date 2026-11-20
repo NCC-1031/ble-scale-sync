@@ -1,6 +1,6 @@
-name: BLE Scale Sync
+name: BLE Scale Sync (IF_B7 fork)
 # x-release-please-start-version
-version: 1.42.0
+version: 1.42.0-ifb7
 # x-release-please-end
 slug: ble-scale-sync
 description: >-
